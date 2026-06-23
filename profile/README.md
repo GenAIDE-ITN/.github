@@ -1,4 +1,4 @@
-## Aknowledgement
+## Acknowledgement
 
 <img width="139" height="93" alt="image" src="https://github.com/user-attachments/assets/fadb6540-fdf2-41c4-88ca-b7f71e8c6ee9" />
 
